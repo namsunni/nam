@@ -1,3 +1,4 @@
 # nam
 hello everyone. i nam. ^_^
-I want to prepare to my file.
+I want to share my project on Github.
+then.. bye bye 
