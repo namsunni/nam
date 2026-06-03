@@ -1,2 +1,3 @@
 # nam
-첫번째 저장소
+hello everyone. i nam. ^_^
+I want to prepare to my file.
